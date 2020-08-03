@@ -10,5 +10,5 @@ name_hash.each{ |key, value|
     lowest_key = key
   end
 }
-
+lowest_key
 end
