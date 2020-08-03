@@ -12,7 +12,7 @@ name_hash.each do |key, value|
  end
 lowest_key
 end
-# 
+#
 # def key_for_min_value(hash)
 #   lowest_key = nil
 #   lowest_value = nil
